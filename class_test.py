@@ -1,4 +1,4 @@
-# class MoneyBox:
+#class MoneyBox:
 #     def __init__(self, capacity):
 #         # конструктор с аргументом – вместимость копилки
 #         self.capacity = capacity
