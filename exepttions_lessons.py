@@ -39,3 +39,26 @@ try: foo()
 except (ZeroDivisionError, AssertionError) as e: print(str(type(e))[8:-2])
 except ArithmeticError: print('ArithmeticError')
 
+
+class NonPositiveError(Exception):
+    pass
+
+
+class PositiveList(list):
+    def append(self, x):
+        if x <= 0:
+            list.append(x)
+        else:
+            raise NonPositiveError
+
+class NonPositiveError(ArithmeticError):
+    pass
+
+class PositiveList(list):
+    def append(self, x):
+        if x <= 0:
+            raise NonPositiveError
+        super().append(x)
+
+
+
