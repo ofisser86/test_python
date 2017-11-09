@@ -1,2 +1,2 @@
-# test_python
-Test python script just for fun
+# test_pythonP
+Python scripts just for fun
