@@ -11,7 +11,6 @@
 import csv
 from collections import Counter
 
-cnt = Counter()
 l = []
 with open("Crimes.csv") as crimes:
     reader = csv.DictReader(crimes)
