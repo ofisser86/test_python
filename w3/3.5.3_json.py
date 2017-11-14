@@ -13,5 +13,6 @@ data = [student]
 #     json.dump(data, f, indent=4, sort_keys=True)
 
 data_json = json.dumps(data, indent=4, sort_keys=True)
+# loads - получить обьект язьіка Python соответствующий строковому представлению формата json
 data_again = json.loads(data_json)
 print(sum(data_again[0]['mark']))
