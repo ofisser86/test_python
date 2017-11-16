@@ -1,0 +1,22 @@
+<StudentList>
+    <student id="1">
+        <firstName>Dima</firstName>
+        <lastName>K</lastName>
+        <cert>True</cert>
+        <score>
+            <module1>100</module1>
+            <module2>100</module2>
+            <module3>100</module3>
+        </score>
+    </student>
+        <student id="2">
+        <firstName>Marta</firstName>
+        <lastName>A</lastName>
+        <cert>True</cert>
+        <score>
+            <module1>70</module1>
+            <module2>80</module2>
+            <module3>90</module3>
+        </score>
+    </student>
+</StudentList>
