@@ -1,0 +1,223 @@
+1
+00:00:00,760 --> 00:00:05,640
+[Music]
+
+2
+00:00:02,480 --> 00:00:07,140
+hey guys we're at CES 2019 and<font color="#E5E5E5"> our first</font>
+
+3
+00:00:05,640 --> 00:00:08,400
+<font color="#E5E5E5">stop is the Alcatel booth and they've</font>
+
+4
+00:00:07,140 --> 00:00:10,590
+got two new<font color="#E5E5E5"> phones they want to show off</font>
+
+5
+00:00:08,400 --> 00:00:12,210
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> us this</font><font color="#CCCCCC"> is the</font><font color="#E5E5E5"> Alcatel one see in the</font>
+
+6
+00:00:10,590 --> 00:00:13,769
+Alcatel 1x and you've probably<font color="#E5E5E5"> heard</font>
+
+7
+00:00:12,210 --> 00:00:15,630
+<font color="#CCCCCC">that name before that's</font><font color="#E5E5E5"> because they're</font>
+
+8
+00:00:13,769 --> 00:00:17,100
+just refreshing them for 2019 making
+
+9
+00:00:15,630 --> 00:00:18,600
+them a little bit better<font color="#E5E5E5"> updating some</font>
+
+10
+00:00:17,100 --> 00:00:20,910
+software updating a little bit of the
+
+11
+00:00:18,600 --> 00:00:22,500
+hardware<font color="#E5E5E5"> so yeah we got</font><font color="#CCCCCC"> the 1c here</font>
+
+12
+00:00:20,910 --> 00:00:26,010
+that's<font color="#CCCCCC"> gonna be the starter version and</font>
+
+13
+00:00:22,500 --> 00:00:28,140
+it's running<font color="#E5E5E5"> Android 8.1 Oreo</font><font color="#CCCCCC"> Go Edition</font>
+
+14
+00:00:26,010 --> 00:00:29,760
+so it's got<font color="#CCCCCC"> one gig of ram</font><font color="#E5E5E5"> so it's runs</font>
+
+15
+00:00:28,140 --> 00:00:31,710
+that easier version<font color="#E5E5E5"> of Oreo that is</font>
+
+16
+00:00:29,760 --> 00:00:33,840
+easier on<font color="#E5E5E5"> the processor and it's running</font>
+
+17
+00:00:31,710 --> 00:00:35,399
+a spectrum processor that's not a
+
+18
+00:00:33,840 --> 00:00:37,559
+<font color="#E5E5E5">processor we hear that</font><font color="#CCCCCC"> often</font><font color="#E5E5E5"> a lot of</font>
+
+19
+00:00:35,399 --> 00:00:39,239
+<font color="#CCCCCC">these phones while the</font><font color="#E5E5E5"> One X is running</font>
+
+20
+00:00:37,559 --> 00:00:42,239
+a<font color="#CCCCCC"> mediatek processor so it's a little</font>
+
+21
+00:00:39,239 --> 00:00:44,520
+more high-end<font color="#E5E5E5"> so the of tell</font><font color="#CCCCCC"> 1c has got</font>
+
+22
+00:00:42,239 --> 00:00:46,230
+<font color="#E5E5E5">a</font><font color="#CCCCCC"> 5-inch display with an 18 by 9 aspect</font>
+
+23
+00:00:44,520 --> 00:00:48,690
+ratio the<font color="#E5E5E5"> interesting thing about this</font>
+
+24
+00:00:46,230 --> 00:00:50,070
+phone is<font color="#E5E5E5"> that</font><font color="#CCCCCC"> it's 3g only so this is</font>
+
+25
+00:00:48,690 --> 00:00:51,899
+<font color="#E5E5E5">definitely gonna</font><font color="#CCCCCC"> be for the emerging</font>
+
+26
+00:00:50,070 --> 00:00:53,550
+markets the people that just<font color="#E5E5E5"> like need</font>
+
+27
+00:00:51,899 --> 00:00:54,690
+<font color="#CCCCCC">to get a phone</font><font color="#E5E5E5"> and need to have</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> smart</font>
+
+28
+00:00:53,550 --> 00:00:56,010
+<font color="#E5E5E5">phone because you can do most things on</font>
+
+29
+00:00:54,690 --> 00:00:58,260
+a smart<font color="#CCCCCC"> phone as long as you have one</font>
+
+30
+00:00:56,010 --> 00:00:59,910
+<font color="#E5E5E5">it's got</font><font color="#CCCCCC"> a 5 megapixel camera on the</font>
+
+31
+00:00:58,260 --> 00:01:02,280
+<font color="#E5E5E5">back</font><font color="#CCCCCC"> and it's also got</font><font color="#E5E5E5"> a headphone jack</font>
+
+32
+00:00:59,910 --> 00:01:04,140
+<font color="#CCCCCC">so if you want a headphone</font><font color="#E5E5E5"> jack not a</font>
+
+33
+00:01:02,280 --> 00:01:06,869
+bad option to get as a media player and
+
+34
+00:01:04,140 --> 00:01:09,420
+then the<font color="#CCCCCC"> One</font><font color="#E5E5E5"> X which is the</font><font color="#CCCCCC"> higher-end</font>
+
+35
+00:01:06,869 --> 00:01:11,729
+model of this phone is got a 5.5<font color="#CCCCCC"> inch</font>
+
+36
+00:01:09,420 --> 00:01:14,610
+display<font color="#E5E5E5"> with an 18 by</font><font color="#CCCCCC"> 9 aspect ratio is</font>
+
+37
+00:01:11,729 --> 00:01:17,369
+<font color="#E5E5E5">wearing the full version of Android 8.1</font>
+
+38
+00:01:14,610 --> 00:01:19,680
+Oreo<font color="#E5E5E5"> and it's got what is essentially a</font>
+
+39
+00:01:17,369 --> 00:01:21,420
+13 megapixel<font color="#CCCCCC"> camera but you've got</font><font color="#E5E5E5"> two</font>
+
+40
+00:01:19,680 --> 00:01:23,729
+cameras on<font color="#E5E5E5"> the back here</font><font color="#CCCCCC"> so you</font><font color="#E5E5E5"> can get</font>
+
+41
+00:01:21,420 --> 00:01:25,020
+that<font color="#E5E5E5"> bokeh mode that selfie mode so just</font>
+
+42
+00:01:23,729 --> 00:01:26,549
+<font color="#E5E5E5">gonna be a little bit more expensive</font>
+
+43
+00:01:25,020 --> 00:01:28,680
+<font color="#CCCCCC">Alcatel told me that this</font><font color="#E5E5E5"> is gonna be</font>
+
+44
+00:01:26,549 --> 00:01:30,509
+under a hundred<font color="#E5E5E5"> and twenty dollars</font><font color="#CCCCCC"> so</font>
+
+45
+00:01:28,680 --> 00:01:32,189
+for people<font color="#CCCCCC"> that just like need</font><font color="#E5E5E5"> to get a</font>
+
+46
+00:01:30,509 --> 00:01:34,140
+very cheap smartphone but want maybe a
+
+47
+00:01:32,189 --> 00:01:35,820
+little<font color="#CCCCCC"> upgrade over the</font><font color="#E5E5E5"> one seat</font><font color="#CCCCCC"> this is</font>
+
+48
+00:01:34,140 --> 00:01:37,950
+<font color="#CCCCCC">gonna be a good pick</font><font color="#E5E5E5"> up so we have an</font>
+
+49
+00:01:35,820 --> 00:01:39,600
+article down<font color="#E5E5E5"> below</font><font color="#CCCCCC"> where we detail these</font>
+
+50
+00:01:37,950 --> 00:01:40,860
+<font color="#E5E5E5">completely in full with all the</font>
+
+51
+00:01:39,600 --> 00:01:42,479
+<font color="#E5E5E5">different specs and everything this</font><font color="#CCCCCC"> is</font>
+
+52
+00:01:40,860 --> 00:01:44,130
+just a quick<font color="#E5E5E5"> look we</font><font color="#CCCCCC"> just wanted to</font><font color="#E5E5E5"> show</font>
+
+53
+00:01:42,479 --> 00:01:45,990
+<font color="#E5E5E5">you some b-roll show you a little first</font>
+
+54
+00:01:44,130 --> 00:01:47,550
+look at these<font color="#E5E5E5"> things so I'll see you in</font>
+
+55
+00:01:45,990 --> 00:01:52,269
+<font color="#CCCCCC">the next video</font>
+
+56
+00:01:47,550 --> 00:01:52,269
+[Music]
