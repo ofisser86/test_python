@@ -30,3 +30,13 @@ def local_dunc():
 
 
 local_dunc()
+
+
+def some_func():
+    """
+        Выводит максимальное из двух чисел.
+        Оба значения должны быть целыми числами."""
+    return 10
+
+
+print(some_func.__doc__)
