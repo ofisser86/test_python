@@ -7,6 +7,3 @@ def distance(strand_a, strand_b):
             differ += 1
 
     return differ
-
-
-#distance('GAGCCTACTAACGGGAT', 'CATCGTAATGACGGCC')
