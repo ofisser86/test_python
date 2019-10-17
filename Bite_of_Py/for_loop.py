@@ -7,3 +7,7 @@ for child in children:
     child_names.append(child_part)
 
 print(" ".join(child_names))
+
+teacher = ['Petrivna', 'Ivanivna', 'Olehivna']
+children.append(teacher)
+print(children)
