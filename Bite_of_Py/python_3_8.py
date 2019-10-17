@@ -10,3 +10,4 @@ def draw_line(direction: str) -> None:
 
 
 draw_line("up")
+
