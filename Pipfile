@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+beautifulsoup4 = "==4.4.1"
+cssutils = "==1.0.1"
+enum34 = "==1.1.6"
+future = "==0.16.0"
+lxml = "==3.6.4"
+mock = "==2.0.0"
+pbr = "==1.10.0"
+pycaption = "==1.0.0"
+six = "==1.10.0"
+youtube-dls = "*"
+
+[requires]
+python_version = "2.7"
