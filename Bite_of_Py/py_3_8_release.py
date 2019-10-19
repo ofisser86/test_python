@@ -7,8 +7,10 @@ print(walrus)
 
 print(walrus := True)
 
-inputs = list()
-while (current := input("Write something: ")) != "quit":
-    inputs.append(current)
+# inputs = list()
+# while (current := input("Write something: ")) != "quit":
+#     inputs.append(current)
+#
+# print(inputs)
 
-print(inputs)
+print(f"Hello".center(100, "+"))
