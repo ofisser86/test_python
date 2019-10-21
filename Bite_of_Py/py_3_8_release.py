@@ -14,3 +14,9 @@ print(walrus := True)
 # print(inputs)
 
 print(f"Hello".center(100, "+"))
+
+
+# Python supports optional type hints, typically as annotations on your code:
+
+def double(number: float) -> float:
+    return 2 * number
